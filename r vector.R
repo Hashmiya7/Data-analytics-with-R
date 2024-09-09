@@ -1,0 +1,11 @@
+vec=c(2,4,6,NA)
+length(vec)
+typeof(vec)
+vec1=1:5
+vec1
+vec1[3]
+length(vec1)
+vec2=c(4+7i,2L,2.4,"r","hello")
+vec2[2]
+typeof(vec2)
+length(vec2)
