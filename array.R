@@ -11,7 +11,7 @@ a2=array(seq(1,9),dim=c(3,3))
 a2
 
 a3=array(c(10,23,45,73,89,90),dim=c(2,3))
-a
+a3
 
 vec1=seq(1,9)
 vec2=c(2,3,4)
