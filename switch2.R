@@ -3,7 +3,7 @@ switch(
   a,"Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"
 )
 
-b=as.integer(readline("Enter the value to print day respectively:"))
+b=readline("Enter the value to print day respectively:")
 switch(
   b,
   "1"="sunday",
@@ -13,6 +13,6 @@ switch(
   "5"="thursday",
   "6"="friday",
   "7"="saturday",
-  print("Invalid value")
+  "Invalid value"
 )
 
